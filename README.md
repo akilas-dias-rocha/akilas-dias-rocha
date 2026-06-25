@@ -1,6 +1,6 @@
 # Hi, I'm Ákilas Rocha 👋
 
-### Analytics Engineer | Data Engineering | Azure · dbt · Databricks · Power BI
+### Analytics Engineer | Data Analyst | Azure · Databricks · dbt · Power BI
 
 Degree in Production Engineering, experience as an Analytics Engineer and Data Analyst. I combine a background in industrial and logistics environments with hands-on experience across the full data lifecycle, from ingestion and transformation to dimensional modeling, data warehousing, and visualization. My focus is on building reliable, well-documented data pipelines and semantic layers that turn raw data into trustworthy information for decision-making.
 
